@@ -6,6 +6,6 @@ To run Parabank and Demo App using docker-compose.yml, you first need to:
 
 To run runsoatest.bat, you first need to:
 - Run the Parabank and DemoApp builds to produce the application binaries.  Copy the binaries to the binaries directory.  See:
--- https://github.com/parasoft/parasoft-demo-app
--- https://github.com/parasoft/parabank
+    - https://github.com/parasoft/parasoft-demo-app
+    - https://github.com/parasoft/parabank
 - Update the bat script and soatestcli.properties file to use your own Parasoft resources.  The binaries folder is referenced in soatestcli.properties.
